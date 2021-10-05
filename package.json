@@ -2,7 +2,7 @@
   "name": "math-app",
   "version": "0.8.0",
   "private": true,
-  "homepage": "http://shaffan-NU.github.io/iparhaiMathGame",
+  "homepage": "http://devshaffan.github.io/demo_english_add",
   "dependencies": {
     "animate.css": "^4.1.1",
     "axios": "^0.21.4",
